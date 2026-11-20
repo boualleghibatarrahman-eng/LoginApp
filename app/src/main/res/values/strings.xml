@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="welcome_msg">Welcome</string>
+    <string name ="login_title">LoginApp</string>
+    <string name="name_hint">Enter your user name</string>
+    <string name ="password_hint">Enter your password</string>
+    <string name="ok_label">OK</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="login_success">Login Successful</string>
+    <string name="login_failure">Incorrect informations ,Try again</string>
+    <string name="toast_user_info">Name: %1$s\nPassword: %2$s</string>
+</resources>
+
+
